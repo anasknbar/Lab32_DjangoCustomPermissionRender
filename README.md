@@ -9,6 +9,7 @@
 - install `dj-database-url` library.
 - install `dj-database-url` library.
 - install `psycopg2-binary` library.
+- install `gunicorn` library.
 
 - go to the settings.py and overwrite the defalut database with the follwoing: 
 
